@@ -42,10 +42,10 @@ def quantic_sort(array):
     Cet algorithme se base sur la théorie d'Everett (théorie des mondes
     multiples, https://fr.wikipedia.org/wiki/Th%C3%A9orie_d'Everett).
     On mélange le tableau de manière réellement aléatoire et on regarde si il
-    est triée. Si on se trouve dans une branche où le tableau n'est pas trié,
+    est trié. Si on se trouve dans une branche où le tableau n'est pas trié,
     on fait exploser l'Univers dans son ensemble. De cette manière, on se
     retrouve subjectivement systématiquement dans un Univers où le tableau est
-    triée.
+    trié.
 
     Note : le tri est fait en place
 
